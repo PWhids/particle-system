@@ -1,0 +1,15 @@
+{
+  "name": "psim",
+  "version": "1.0.0",
+  "description": "Particle Sim tools",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Whidden",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.5.0"
+  }
+}
